@@ -77,7 +77,7 @@
 
 ---
 
-### 5. Projeto Full Stack: Aplicação Complete
+### 5. Projeto Full Stack: Aplicação Completa
 1. Front-end:
     - Criação de uma interface rica e interativa com Nuxt.js
 
